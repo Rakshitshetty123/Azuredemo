@@ -10,8 +10,8 @@ namespace Azuredemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World11");
+            Console.WriteLine("Hello World)
+            Console.WriteLine("Hello World11"
         }
     }
 }
